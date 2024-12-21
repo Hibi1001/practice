@@ -1,0 +1,2 @@
+#GoogleColab_practice
+GoogleColabの練習を保存する
